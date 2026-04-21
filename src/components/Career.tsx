@@ -40,7 +40,7 @@ const Career = () => {
                 <h4>Lead</h4>
                 <h5>Systems Limited · Lahore</h5>
               </div>
-              <h3>2020–23</h3>
+              <h3>2020–2023</h3>
             </div>
             <p>
               Led QA functions across enterprise engagements. Designed test
@@ -56,7 +56,7 @@ const Career = () => {
                 <h4>Senior Test Automation Engineer</h4>
                 <h5>NorthBay Solutions · Lahore</h5>
               </div>
-              <h3>2019–20</h3>
+              <h3>2019–2020</h3>
             </div>
             <p>
               Designed automation framework and architecture. Owned performance
@@ -85,7 +85,7 @@ const Career = () => {
                 <h4>Software Quality Assurance Engineer</h4>
                 <h5>CureMD · Lahore</h5>
               </div>
-              <h3>2015–19</h3>
+              <h3>2015–2019</h3>
             </div>
             <p>
               Created detailed test plans with time estimations. Formulated
