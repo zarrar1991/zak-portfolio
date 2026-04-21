@@ -103,9 +103,9 @@ const Career = () => {
               <h3>Degree</h3>
             </div>
             <p>
-              Lancaster University · Computer Science-adjacent program. Built
-              the engineering foundation that powers a decade of shipping
-              reliable software.
+              Lancaster University · BS Computer Science. Built the
+              engineering foundation that powers a decade of shipping reliable
+              software.
             </p>
           </div>
         </div>
