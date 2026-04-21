@@ -32,9 +32,6 @@ const Contact = () => {
             <p>
               Lancaster University
             </p>
-            <p>
-              COMSATS Institute of Information and Technology
-            </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>

@@ -98,14 +98,14 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Education</h4>
-                <h5>Lancaster University · COMSATS</h5>
+                <h5>Lancaster University</h5>
               </div>
               <h3>Degree</h3>
             </div>
             <p>
-              Lancaster University · Computer Science-adjacent program. COMSATS
-              Institute of Information and Technology · Computer Science
-              foundation.
+              Lancaster University · Computer Science-adjacent program. Built
+              the engineering foundation that powers a decade of shipping
+              reliable software.
             </p>
           </div>
         </div>
