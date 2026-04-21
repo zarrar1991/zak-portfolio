@@ -37,7 +37,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Lead</h4>
+                <h4>Test Automation Lead</h4>
                 <h5>Systems Limited · Lahore</h5>
               </div>
               <h3>2020–2023</h3>
